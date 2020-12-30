@@ -37,6 +37,7 @@ jsproxy_config({
       label: '',
       hidden: true,
       lines: {
+        'security.uniontech.com',
         // 收费版（高权重）
         //'node-cfworker-2.etherdream.com': 4,
 
